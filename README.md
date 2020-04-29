@@ -5,4 +5,4 @@ To better understand such processes, we had developed an anoxic biocathode micro
 
 In this repository, we present the analysis of the microbial diversity developed in the anode and cathode chambers of a microbial desalination cell bioreactor.
 
-More details about this study can be accessed in the paper "[Anoxic-biocathode microbial desalination cell as a new approach for wastewater remediation and clean water production](https://iwaponline.com/wst/article/doi/10.2166/wst.2020.134/73233/Anoxic-biocathode-microbial-desalination-cell-as-a)"
+More details about this study can be accessed in the papers "[Anoxic-biocathode microbial desalination cell as a new approach for wastewater remediation and clean water production](https://iwaponline.com/wst/article/doi/10.2166/wst.2020.134/73233/Anoxic-biocathode-microbial-desalination-cell-as-a)" and  "[Prospects in bioelectrochemical technologies for wastewater treatment](https://iwaponline.com/wst/article/78/6/1237/64112/Prospects-in-bioelectrochemical-technologies-for)"
